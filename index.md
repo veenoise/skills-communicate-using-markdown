@@ -6,3 +6,10 @@
 ###### H6 Header
 This is markdown syntax I've been working on.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
